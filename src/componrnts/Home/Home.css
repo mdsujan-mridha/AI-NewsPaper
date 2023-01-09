@@ -1,0 +1,47 @@
+/* ==================================== */
+/* ++++++++++++++++++responsive++++++++++++++++ */
+.main-container {
+    width: 100% !important;
+}
+
+.category-content {
+    width: 22% !important;
+}
+
+.slider-content {
+    width: 72% !important;
+}
+
+@media only screen and (max-width:1024px) {}
+
+
+
+@media screen and (max-width:992px) {
+    .category-content {
+        width: 100% !important;
+    }
+
+    .slider-content {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .category-content {
+        width: 100% !important;
+    }
+
+    .slider-content {
+        width: 100% !important;
+    }
+}
+
+@media screen and (max-width:600px) {
+    .category-content {
+        width: 100% !important;
+    }
+
+    .slider-content {
+        width: 100% !important;
+    }
+}
